@@ -1,0 +1,23 @@
+.sidenav-container {
+  height: 100%;
+
+}
+
+.sidenav {
+  width: 200px;
+  background: blue;
+}
+
+.sidenav .mat-toolbar {
+  background: blue;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+mat-card{
+  background: grey;
+  margin: 45px;
+}
